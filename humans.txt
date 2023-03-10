@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Felipe Lemos -- elrond225@gmail.com -- @felipelemos22
 
 # THANKS
 
