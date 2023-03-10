@@ -19,6 +19,8 @@ server or eve local file system.
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2023 Git.Training
