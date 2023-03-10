@@ -18,3 +18,7 @@ This is a simple web project, deployment can be on any web
 server or eve local file system.
 
 ## How to Contribute
+
+### Copyright
+
+2023 Git.Training
